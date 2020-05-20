@@ -2,6 +2,4 @@
 
 This is my startup and bio page via github pages.
 
-Can get more info about me if want to cantact me.
-
-http://www.text2next.com
+Can get more info about me here if you want to contact me.
